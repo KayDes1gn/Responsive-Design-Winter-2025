@@ -4,7 +4,7 @@
 
 The folder that contains the web site (where the home page file is located).
 
-On the Cpanel server the root folder is **public_html**
+On the CPanel server the root folder is **public_html**
 
 ## Basic HTML Tags
 
