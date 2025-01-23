@@ -4,6 +4,8 @@
 
 The folder that contains the web site (where the home page file is located).
 
+On the Cpanel server the root folder is **public_html**
+
 ## Basic HTML Tags
 
 Hyper Text Markup Language is a set of tags added to text to define the structure of a page of text. (Computers don't understand the meaning of the text. The tags add context to the blocks of text. The text itself is just scanned for keywords.)
