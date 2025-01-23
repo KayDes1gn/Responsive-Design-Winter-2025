@@ -42,6 +42,10 @@ Various levels that breakdown structured information into **organized** categori
                 |-- Bull Terriers (h5)
                     |-- Adults (h6)
                     |-- Puppies (h6)
+    |-- Birds (h2)
+          |-- Eagles (h3)
+                |-- Bald Eagles (h4)
+                |-- Royal Eagles (h4)
 
 ### \<p>
 
