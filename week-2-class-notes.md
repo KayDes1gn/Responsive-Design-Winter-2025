@@ -65,7 +65,7 @@ All images have diagonal cyan stripes to better be able to see pixelation if the
 11. Change the width of the browser window to see if the images change automatically.
 
 
-## Exercise 3: Resolution with srcset
+## Exercise 3: Resolution with srcset (auto select by the browser)
 
 <blockquote>
 
