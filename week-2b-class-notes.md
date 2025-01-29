@@ -49,9 +49,7 @@ In very simplified terms, a pixel in CSS (ex: 1px) is not necessarily equal to a
 
 <blockquote>
 
-### Reference Material 
-
-#### CSS Box Sizing
+### CSS Box Sizing
 
 CSS Box Sizing is a "fix" added to newer versions of CSS. In the initial version of CSS, with total width of a box would grow once you added things like padding and borders. *This was very unintuitive, and very confusing for designers.* 
 
@@ -74,9 +72,7 @@ When using this in your CSS, the overall width of the box remains constant (ex: 
 
 <blockquote>
 
-### Reference Material
-
-#### How to Use HTML5 “picture”, “srcset”, and “sizes” for Responsive Images
+### How to Use HTML5 “picture”, “srcset”, and “sizes” for Responsive Images
 
 [https://webdesign.tutsplus.com/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015t](https://webdesign.tutsplus.com/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015t)
 
