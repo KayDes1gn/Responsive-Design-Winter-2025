@@ -2,7 +2,9 @@
 
 ## Sizes Demo
 
-[picture tag sizes attribute](./week-2b/sizes-demo.html)
+[HTML 5 Picture tag demo using the size attribute](./week-2b/sizes-demo.html)
+
+<hr>
 
 <blockquote>
 
