@@ -72,6 +72,15 @@ In very simplified terms, a pixel in CSS (ex: 1px) is not necessarily equal to a
 
 ![want to control the dpr 3](./week-2b/img/want-to-control-dpr-3.png)
 
+
+### Easily Resize Images
+
+You can easily resize images directly with VS Code using the **n3rds-inc.image** extension.
+
+![resize image 1](./week-2b/img/resize-image.png)
+
+![resize image 1](./week-2b/img/resize-image-2.png)
+
 <blockquote>    
 
 ### How to Find Which File is the Currently Loaded Image 
