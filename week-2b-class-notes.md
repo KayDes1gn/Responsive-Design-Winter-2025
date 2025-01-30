@@ -72,7 +72,20 @@ In very simplified terms, a pixel in CSS (ex: 1px) is not necessarily equal to a
 
 ![want to control the dpr 3](./week-2b/img/want-to-control-dpr-3.png)
 
+<blockquote>    
 
+### How to Find Which File is the Currently Loaded Image 
+
+To find the currently loaded source (when the size is not written on the picture) do this:
+
+1. Right-click on the image and inspect it
+2. DevTools will open
+3. Hit the Escape key to open the console
+4. Type: $0.currentSrc
+5. Hit return
+6. The currently loaded source image path will be displayed
+
+</blockquote>
 
 ## Sizes Demo
 
