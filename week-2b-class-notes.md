@@ -1,20 +1,28 @@
 # Responsive Images using the Sizes attribute
 
-## Setting up the web browser for Density Pixel Ratio testing
+## Objective of Responsive Images
 
-First of all a definition from [Peter-Paul Koch](http://www.quirksmode.org/about/)
+To efficiently deliver an image that is adapted to the technical display characteristics—such as orientation, color, resolution, pixel density, and color depth—of any particular device.
 
-" Device Pixel Ratio is the ratio between physical pixels and device-independent pixels (dips) on the device.
-Device Pixel Ratio = physical pixels / dips "
+- Orientation: Portrait or Landscape
+- Color: Black and white, grayscale, color.
+- Resolution: the overall pixel dimensions of the device. Ex: 768 x 1024
+- Pixel density of the screen: 1x, 2x 3x or 4x
+- Color depth: sRGB, Display P3, HDR 
 
-- [http://www.quirksmode.org/blog/archives/2012/06/devicepixelrati.html](http://www.quirksmode.org/blog/archives/2012/06/devicepixelrati.html)
+![screen orientation](./week-2b/img/lukw-orientation.png)
 
-In very simplified terms, a pixel in CSS (ex: 1px) is not necessarily equal to a physical pixel built into a computer screen. 
+[https://www.lukew.com/about/](https://www.lukew.com/about/)
+  
+![up close view of screen pixels](./week-2b/img/pixels.jpg)
 
-- If the device (phone, tablet, monitor, tv, projector screen, etc) has a DPR of 1 then a CSS pixel is equal to a screen pixel.
-- If the device has a DPR of 2 then a CSS pixel is equal to four screen pixels (2 wide X 2 tall = 4 total).
-- If the device has a DPR of 3 then a CSS pixel is equal to nine screen pixels (3 wide X 3 tall = 9 total).
-- If the device has a DPR of 4 then a CSS pixel is equal to sixteen screen pixels (4 wide X 4 tall = 16 total).
+![color gamut](./week-2b/img/color-gamut.jpg)
+
+
+
+### Getting to know your Screen
+
+Start by checking out the characteristics of your device screen here: [https://www.mydevice.io/](https://www.mydevice.io/)
 
 ### Examples
 
@@ -38,6 +46,31 @@ In very simplified terms, a pixel in CSS (ex: 1px) is not necessarily equal to a
 | Mobile | Apple iPhone 13 | 390 x 844 | 1170 x 2532 | 6.1″ | 3.0 | 460 | 153 | 
 | Mobile | Apple iPhone 13 mini | 360 x 780 | 1080 x 2340 | 5.4″ | 3.0 | 476 | 159 | 
 
+
+
+## Setting up the web browser for Density Pixel Ratio testing
+
+First of all a definition from [Peter-Paul Koch](http://www.quirksmode.org/about/)
+
+" Device Pixel Ratio is the ratio between physical pixels and device-independent pixels (dips) on the device.
+Device Pixel Ratio = physical pixels / dips "
+
+- [http://www.quirksmode.org/blog/archives/2012/06/devicepixelrati.html](http://www.quirksmode.org/blog/archives/2012/06/devicepixelrati.html)
+
+In very simplified terms, a pixel in CSS (ex: 1px) is not necessarily equal to a physical pixel built into a computer screen. 
+
+- If the device (phone, tablet, monitor, tv, projector screen, etc) has a DPR of 1 then a CSS pixel is equal to a screen pixel.
+- If the device has a DPR of 2 then a CSS pixel is equal to four screen pixels (2 wide X 2 tall = 4 total).
+- If the device has a DPR of 3 then a CSS pixel is equal to nine screen pixels (3 wide X 3 tall = 9 total).
+- If the device has a DPR of 4 then a CSS pixel is equal to sixteen screen pixels (4 wide X 4 tall = 16 total).
+
+### Customize the Dev Tools
+
+![want to control the dpr](./week-2b/img/want-to-control-dpr.png)
+
+![want to control the dpr 2](./week-2b/img/want-to-control-dpr-2.png)
+
+![want to control the dpr 3](./week-2b/img/want-to-control-dpr-3.png)
 
 
 
