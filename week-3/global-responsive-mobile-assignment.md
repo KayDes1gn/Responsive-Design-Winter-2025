@@ -55,13 +55,13 @@ Give it an obvious name to be able to tell it apart from the original.
 
 
             <img src="img/picture-unsplash.jpg" alt="good alt text goes here">
-            <picture>
+            </picture>
 
 Note that the value for the sizes attribute goes in "sizes" and corresponds to the pixel dimension of the **lowest image in the srcset order**. The **top image is twice the sizes value**.
 
 In practical terms, the human eye cannot see more than 2x of the image's resolution. Only under very specific circumstances (specific display or image characteristics) is it necessary to provide 3x and 4x images.
 
-View the file in the browser, then open the Console.
+View the file in the browser, then open the Console (click Console at the top of the web inspector, or hit the Escape key).
 
 Use: $0.currentSrc to see which image is being loaded from the source list.
 
@@ -104,13 +104,31 @@ If you have a large scale vertical original image available, you can may be able
                 sizes="700px">    
     
 
-            <img src="img/kawe-rodrigues-CyuUz_tK0rs-unsplash-landscape_700x467.jpg" alt="">
+            <img src="img/picture-unsplash-landscape_700x467.jpg" alt="">
         </picture>
 
 
-Test the pages to see if your images are now responsive.
+Test the pages to see if your images are now responsive. View the file in the browser, then open the Console (click Console at the top of the web inspector, or hit the Escape key).
+
+Use: $0.currentSrc to see which image is being loaded from the source list.
+
 ### 8. Upload to the GWD server.
+
+As per usual, rename the folder so that it does not contain capital letters or spaces.
+
 ### 9. Test all the pages on the site on the live server.
+
+Make sure all the images and css load, all the links are unbroken. 
+
+Look at the Console to see if any errors are listed. Specifically, look for 404 errors (object not found = a broken link).
+
 ### 10. Copy the URL of the page.
-### 11. Switch to a different browser, paste the link. See if the link is good.
-### 12. Submit the good link via MIO.
+
+Ex: https://billy-poppins.graphicandwebdesign.ca/global-1-responsive-mobile-only/
+
+### 11. Switch to a different browser, paste the link into the URL bar. 
+
+Check to see if the link you copied is good.
+
+
+### 12. Submit the known good link via MIO.
