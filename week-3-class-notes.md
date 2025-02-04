@@ -8,7 +8,7 @@ This week, we will enhance your first semester global project by adding responsi
 2. Take an inventory of the images you used last semester:
    1. Do they have good image quality?
    2. Do you still have the original (large size) image to be able to resize the image properly this semester?
-3. Replace any images that don't pass points 4.1 and 4.2.
+3. Replace any images that don't pass points 2.1 and 2.2.
 4. Swap the img tags for picture tags.
 5. Test the pages to see if your images are now responsive.
 6. Upload to the GWD server.
