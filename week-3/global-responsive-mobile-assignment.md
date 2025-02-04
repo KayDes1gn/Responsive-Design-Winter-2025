@@ -39,9 +39,9 @@ Give it an obvious name to be able to tell it apart from the original.
 
 6.6 Take the time to add a meaningful alt text. 
 
-- Bad alt text: "cake"
+- **Bad alt text:** "cake"
 
-- Good alt text: "Pink frosted birthday cake with a number 3 lit candle on it, seen in a downward angle, placed on top of a wooden kitchen table with colorful balloons and a smiling toddler in a high chair." (Imagine describing what you see in the picture to a blind person!)
+- **Good alt text:** "Pink frosted birthday cake with a number 3 lit candle on it, seen in a downward angle, placed on top of a wooden kitchen table with colorful balloons and a smiling toddler in a high chair." (Imagine describing what you see in the picture to a blind person!)
 
 6.7 Wrap the img tag with a picture tag
 
@@ -104,7 +104,7 @@ If you have a large scale vertical original image available, you can may be able
                 sizes="700px">    
     
 
-            <img src="img/picture-unsplash-landscape_700x467.jpg" alt="">
+            <img src="img/picture-unsplash-landscape_700x467.jpg" alt="good alt text goes here">
         </picture>
 
 
