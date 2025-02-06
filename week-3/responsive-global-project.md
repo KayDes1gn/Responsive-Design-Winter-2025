@@ -8,6 +8,12 @@
 
 ## Determining the Sizes Attribute
 
+<blockquote>
+
+Using the largest screen available to you (ie desktop), test to see just how big you want the image to be at **its biggest size**. This is a purely visual design decision. The technical aspects follow upon *what you want the page to look like*.
+
+</blockquote>
+
 The "sizes" attribute of the image is determined by testing **on desktop**.
    1. What picture size looks good to the designer.
    2. The image is **not so big that it forces the viewer to scroll vertically** to see the contents of the footer on an otherwise rather empty page.
