@@ -67,5 +67,5 @@ Each image (previously added with an \<img> tag, not as a CSS background, and no
 ### Example
 
 - 5 page web site X 2 images per page = 10 images to check X 2 orientations = 20pts
-- The two orientations must load appropriately
+- The two orientations must load appropriately.
 - The resolution switching (1x and 2x) must function properly.
