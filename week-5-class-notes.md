@@ -50,7 +50,13 @@ Add layout columns on each. (4, 8 or 12 columns depending on size, for example).
 
 See: [15 minute Figma crash course](https://www.youtube.com/watch?v=jQ1sfKIl50E)
 
+<blockquote>
 
+### Note
+
+Both Adobe XD and Figma have mobile app versions so you can look at your designs on a real device.
+
+</blockquote>
 
 ## Assignment
 
