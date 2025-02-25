@@ -55,7 +55,7 @@ Earth Day is another project that comes after the BioBlitz.
 
 #### iNaturalist QR Codes
 
-Add these QR codes to your page layout.
+Add these QR codes to your page layout. They can be links for mobile/web, but can be scannable QR codes for hallway displays.
 
 - [iNaturalist JAC Site](./week-6/jac-qrcode.png)
 - [iNaturalist Android App Store](./week-6/inaturalist-android-qrcode.png)
