@@ -96,5 +96,13 @@ You can also use your own, or from other legal sources of photography. *Do not d
 Please download these from [Omnivox](https://johnabbott-lea.omnivox.ca).
 
 
+## Submission & Deadline
+
+- Click the blue share link in Figma.
+- Add **ericg@johnabbott.qc.ca as a "share to edit"** invitation.
+- Submit by **8am on March 1, 2025**
+
+
+
 
 
