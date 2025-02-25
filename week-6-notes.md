@@ -65,6 +65,10 @@ Add these QR codes to your page layout.
 
 [https://fonts.google.com/](https://fonts.google.com/)
 
+#### Type Scale Calculator
+
+[https://spencermortensen.com/articles/typographic-scale/](https://spencermortensen.com/articles/typographic-scale/)
+
 
 #### Stock Photos
 
