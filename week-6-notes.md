@@ -66,9 +66,9 @@ In any design, try to answer the "reader's need to know":
 
 Add these QR codes to your page layout. They can be links for mobile/web, but can be scannable QR codes for hallway displays.
 
-- [iNaturalist JAC Site](./week-6/jac-qrcode.png)
-- [iNaturalist Android App Store](./week-6/inaturalist-android-qrcode.png)
-- [iNaturalist iOS App Store](./week-6/appstore-qrcode.png)
+- [iNaturalist JAC Site QR Code](./week-6/jac-qrcode.png) that points to [https://inaturalist.ca/projects/john-abbott-college-campus-biodiversity-network](https://inaturalist.ca/projects/john-abbott-college-campus-biodiversity-network)
+- [iNaturalist Android App Store QR Code](./week-6/inaturalist-android-qrcode.png) that points to [https://play.google.com/store/apps/details?id=org.inaturalist.android](https://play.google.com/store/apps/details?id=org.inaturalist.android)
+- [iNaturalist iOS App Store QR Code](./week-6/appstore-qrcode.png) that points to [https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8](https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8)
 
 #### Google Fonts
 
