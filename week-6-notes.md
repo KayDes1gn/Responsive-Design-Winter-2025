@@ -7,7 +7,7 @@ Here are the links to last Winter semester’s online Google Photo Student galle
 
 ### BioBlitz 2024 (Digital Photo II)
 
-Last year’s BioBlitz involved areas other than John Abbott, i.e. McGill’s Morgan Arboretum, this in 2025 it will only include the John Abbott campus.
+Last year’s BioBlitz involved areas other than John Abbott, i.e. McGill’s Morgan Arboretum, this year it will only include the John Abbott campus.
 
 We can improve JAC community buy-in with online promotion on JAC’s video displays, on the web and on Instagram.
 
