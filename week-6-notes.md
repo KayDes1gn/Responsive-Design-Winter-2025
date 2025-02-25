@@ -27,20 +27,32 @@ Earth Day is another project that comes after the BioBlitz.
 
 ### Objectives
 
-- Create page layout template designs for single/multiple column page screens.
+#### Create page layout template designs for single/multiple column page screens.
+
 - **Determine column width so we can know what sizes to create responsive images at.**
-- Determine font sizes and styles:
+
+### Determine font sizes and styles
+
   - Display
   - Leader
   - Titles
   - Subtitles
   - Body
-- Define color palette:
+
+#### Define color palette
+
   - Main background color
   - Titles/subtitles color
   - Default body text color
 
-### The 5 Ws
+#### Encourage local participation and engagement
+
+  - Use photos of local plants
+  - Use photos of local animals
+  - Use photos of the JAC campus
+  - Use photos of Sainte-Anne-de-Bellevue
+
+### Answer the 5 Ws
 
 In any design, try to answer the "reader's need to know":
 
