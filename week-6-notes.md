@@ -40,6 +40,15 @@ Earth Day is another project that comes after the BioBlitz.
   - Titles/subtitles color
   - Default body text color
 
+### The 5 Ws
+
+In any design, try to answer the "reader's need to know":
+
+- Who?
+- What?
+- Where?
+- When?
+- Why?
 
 ### Figma Starter File
 
