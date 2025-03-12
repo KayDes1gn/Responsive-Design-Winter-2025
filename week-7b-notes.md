@@ -18,11 +18,6 @@ Images for the 5 Ws:
 Get images from Unsplash that illustrate this. 
 
 
-## Configuring SSH FS
-
-[Instructions to configure SSH FS can be found on GitHub](https://github.com/JACGWD/configuring-sshfs).
-
-
 ## Technical Review
 
 - Q: What is the image size?
@@ -64,9 +59,9 @@ Get images from Unsplash that illustrate this.
 <table>
 <tbody>
 <tr>
-<td>Text</td>
-<td>Comments</td>
-<td>5 Ws</td>
+<th><strong>Text</strong></th>
+<th><strong>Comments</strong></th>
+<th>5 Ws</th>
 </tr>
 <tr>
 <td>John Abbott College BioBlitz 2025</td>
@@ -81,21 +76,21 @@ Also identifies elements of <strong>Who</strong> and
 <td>A BioBlitz is a communal citizen-science effort to record as many
 species as possible, within a designated location and time period, using
 the iNaturalist app</td>
-<td></td>
+<td>&nbsp;</td>
 <td><p>What</p>
 <p>(detailed statement)</p></td>
 </tr>
 <tr>
 <td>Just make as many iNaturalist observations as possible at JAC</td>
-<td></td>
+<td>&nbsp;</td>
 <td><p>What</p>
 <p>(simplified statement to encourage engagement)</p></td>
 </tr>
 <tr>
 <td>The objective is to connect with nature and others, while providing
 useful data for scientific biodiversity conservation purposes. </td>
-<td></td>
-<td></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td>No sign-up is needed. </td>
@@ -103,7 +98,7 @@ useful data for scientific biodiversity conservation purposes. </td>
 <br />
 (But you need an iNaturalist account for uploading photos with the
 app.)</td>
-<td></td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td>April 25-28 2025</td>
@@ -112,25 +107,24 @@ app.)</td>
 </tr>
 <tr>
 <td>John Abbott College campus &amp; surrounding areas</td>
-<td></td>
+<td>&nbsp;</td>
 <td>Where</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td>iNaturalist</td>
-<td>Client Organization<br />
-(beneficiary)</td>
-<td></td>
+<td>Client Organization (beneficiary)</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td><p>Connect with Nature</p>
 <p>Explore and share your observations from the natural world.</p></td>
-<td></td>
-<td></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td><p><strong>Download the Naturalist App</strong><br />
@@ -151,7 +145,7 @@ href="https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8">https://itun
 <p>1. Record your observations</p>
 <p>2. Share with fellow naturalists</p>
 <p>3. Discuss your findings</p></td>
-<td></td>
+<td>&nbsp;</td>
 <td>How<br />
 <br />
 (simplified statement to encourage engagement)</td>
@@ -165,7 +159,7 @@ findings with scientific data repositories like the <a
 href="http://gbif.org/">Global Biodiversity Information Facility</a>
 (http://gbif.org/) to help scientists find and use your data. All you
 have to do is observe. </p></td>
-<td></td>
+<td>&nbsp;</td>
 <td>Why</td>
 </tr>
 <tr>
@@ -173,27 +167,98 @@ have to do is observe. </p></td>
 <p>Observations will appear on this page:</p>
 <p><br />
 https://inaturalist.ca/projects/john-abbott-college-campus-biodiversity-network</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
 
 
-## Assignment
+## Assignment: Mobile
 
 1. Create a standard html page
 2. Add style tag inside head
-3. Add multiple images using orientation media query and 1x | 2x resolutions. Image width is defined by column width in Figma. 
+3. Add multiple images using orientation media query and 1x + 2x resolutions. Image width is defined by column width in Figma. 
 4. Remember that 2x images must be saved from same size or bigger images. **Not scaled up from smaller sizes.** 
-5. Wrap elements (picture | picture, picture | text, etc) that will be side by side on larger screens inside a div. Use a "flex-container" class. 
+5. Wrap elements (picture + picture, picture + text, etc) that will be side by side on larger screens inside a div. Use a "flex-container" class. 
+
+### Fonts
+
+- Find Legal typefaces
+- Adobe
+- Google
+
+#### Three fonts: Brand, headers, body
+- Find longest title, choose h1 size accordingly for mobile
+- Use type scale to find intermediates
+
+### Color palette
+
+Define color variables:
+
+#### header
+
+- Header background color
+- Header text color
+- Header anchor LoVeHA
+
+#### main
+
+- Main background color
+- Main text color
+- Main anchor LoVeHA
+
+#### footer
+
+- Footer background color
+- Footer text color
+- Footer anchor LoVeHA
+
+#### LoVeHA Rule Colors & Styles
+
+    header a:link {}
+    header a:visited  {}
+    header a:hover  {}
+    header a:active {}
+
+    main a:link  {}
+    main a:visited  {}
+    main a:hover  {}
+    main a:active  {}
+
+    footer a:hover  {}
+    footer a:active  {}
+    footer a:hover  {}
+    footer a:active  {}
+
+### Background Images
+
+1. Place full resolution images in Figma
+2. Export resized/designed elements from Figma as 1x and 2x
+3. Add as:
+
+    header {
+    background-image: url(css/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    @media (min-resolution: 2x) {
+    header {
+        background-image: url(css/img/bg2x.jpg);
+        /* do not repeat rules that don’t change */
+    }
+    } /* always comment closing media query */
+
+
+## Configuring SSH FS
+
+[Instructions to configure SSH FS can be found on GitHub](https://github.com/JACGWD/configuring-sshfs).
+
+
+## Testing Setup
+
+Use this page to load your page multiple times into iframes of different sizes so you can observe the media queries in action.
+
+[https://github.com/JACGWD/Responsive-iFrames](https://github.com/JACGWD/Responsive-iFrames)
+
