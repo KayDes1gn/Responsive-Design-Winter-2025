@@ -238,27 +238,29 @@ Define color variables:
 3. Add as:
 
     header {
-    background-image: url(css/img/bg.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+        background-image: url(css/img/bg.jpg); /* 1x version */
+        background-repeat: no-repeat;
+        background-size: cover;
     }
 
     @media (min-resolution: 2x) {
-    header {
-        background-image: url(css/img/bg2x.jpg);
-        /* do not repeat rules that don’t change */
-    }
+
+        header {
+            background-image: url(css/img/bg2x.jpg); /* 2x version */
+            /* do not repeat css properties that don’t change */
+        }
+
     } /* always comment closing media query */
 
 
 ## Configuring SSH FS
 
-[Instructions to configure SSH FS can be found on GitHub](https://github.com/JACGWD/configuring-sshfs).
+[Instructions to how to configure SSH FS can be found on this GitHub repo](https://github.com/JACGWD/configuring-sshfs)
 
 
 ## Testing Setup
 
-Use this page to load your page multiple times into iframes of different sizes so you can observe the media queries in action.
+Use this page to load your page multiple times into iframes of different sizes so you can observe the media queries in action. Requires PHP: use the [wordpressplayground.wordpress-playground VS Code extension](https://marketplace.visualstudio.com/items?itemName=WordPressPlayground.wordpress-playground)
 
 [https://github.com/JACGWD/Responsive-iFrames](https://github.com/JACGWD/Responsive-iFrames)
 
