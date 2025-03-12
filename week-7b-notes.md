@@ -61,146 +61,139 @@ Get images from Unsplash that illustrate this.
 
 ## Text Content
 
-| ---------------------+----------------------+--------------------- |
-| Text                 | Comments             |  5 Ws                |
-+----------------------+----------------------+----------------------+
-| John Abbott College  | Official Title of    | **What**\            |
-| BioBlitz 2025        | the Event            | (general statement)\ |
-|                      |                      | \                    |
-|                      |                      | Also identifies      |
-|                      |                      | elements of **Who**  |
-|                      |                      | and **When**         |
-+----------------------+----------------------+----------------------+
-| A BioBlitz is a      |                      | What                 |
-| communal             |                      |                      |
-| citizen-science      |                      | (detailed statement) |
-| effort to record as  |                      |                      |
-| many species as      |                      |                      |
-| possible, within a   |                      |                      |
-| designated location  |                      |                      |
-| and time period,     |                      |                      |
-| using the            |                      |                      |
-| iNaturalist app      |                      |                      |
-+----------------------+----------------------+----------------------+
-| Just make as many    |                      | What                 |
-| iNaturalist          |                      |                      |
-| observations as      |                      | (simplified          |
-| possible at JAC      |                      | statement to         |
-|                      |                      | encourage            |
-|                      |                      | engagement)          |
-+----------------------+----------------------+----------------------+
-| The objective is to  |                      |                      |
-| connect with nature  |                      |                      |
-| and others, while    |                      |                      |
-| providing useful     |                      |                      |
-| data for scientific  |                      |                      |
-| biodiversity         |                      |                      |
-| conservation         |                      |                      |
-| purposes.            |                      |                      |
-+----------------------+----------------------+----------------------+
-| No sign-up is        | No sign up for the   |                      |
-| needed.              | event\               |                      |
-|                      | \                    |                      |
-|                      | (But you need an     |                      |
-|                      | iNaturalist account  |                      |
-|                      | for uploading photos |                      |
-|                      | with the app.)       |                      |
-+----------------------+----------------------+----------------------+
-| April 25-28 2025     | Tentative dates      | When                 |
-|                      | (based on last       |                      |
-|                      | year's event)        |                      |
-+----------------------+----------------------+----------------------+
-| John Abbott College  |                      | Where                |
-| campus & surrounding |                      |                      |
-| areas                |                      |                      |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-| iNaturalist          | Client Organization\ |                      |
-|                      | (beneficiary)        |                      |
-+----------------------+----------------------+----------------------+
-| Connect with Nature  |                      |                      |
-|                      |                      |                      |
-| Explore and share    |                      |                      |
-| your observations    |                      |                      |
-| from the natural     |                      |                      |
-| world.               |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Download the       | Methodology          | How                  |
-| Naturalist App**\    |                      |                      |
-| Works On All Your    |                      |                      |
-| Devices              |                      |                      |
-|                      |                      |                      |
-| Install our mobile   |                      |                      |
-| app so you can       |                      |                      |
-| always observe, even |                      |                      |
-| without cell         |                      |                      |
-| reception or wifi.\  |                      |                      |
-| \                    |                      |                      |
-| <https://pla         |                      |                      |
-| y.google.com/store/a |                      |                      |
-| pps/details?id=org.i |                      |                      |
-| naturalist.android>\ |                      |                      |
-|                      |                      |                      |
-| <h                   |                      |                      |
-| ttps://itunes.apple. |                      |                      |
-| com/us/app/inaturali |                      |                      |
-| st/id421397028?mt=8> |                      |                      |
-+----------------------+----------------------+----------------------+
-| How It Works         |                      | How\                 |
-|                      |                      | \                    |
-| 1\. Record your      |                      | (simplified          |
-| observations         |                      | statement to         |
-|                      |                      | encourage            |
-| 2\. Share with       |                      | engagement)          |
-| fellow naturalists   |                      |                      |
-|                      |                      |                      |
-| 3\. Discuss your     |                      |                      |
-| findings             |                      |                      |
-+----------------------+----------------------+----------------------+
-| Contribute to        |                      | Why                  |
-| Science\             |                      |                      |
-|                      |                      |                      |
-| Every observation    |                      |                      |
-| can contribute to    |                      |                      |
-| biodiversity         |                      |                      |
-| science, from the    |                      |                      |
-| rarest butterfly to  |                      |                      |
-| the most common      |                      |                      |
-| backyard weed. We    |                      |                      |
-| share your findings  |                      |                      |
-| with scientific data |                      |                      |
-| repositories like    |                      |                      |
-| the [Global          |                      |                      |
-| Biodiversity         |                      |                      |
-| Information          |                      |                      |
-| Facilit              |                      |                      |
-| y](http://gbif.org/) |                      |                      |
-| (http://gbif.org/)   |                      |                      |
-| to help scientists   |                      |                      |
-| find and use your    |                      |                      |
-| data. All you have   |                      |                      |
-| to do is observe.    |                      |                      |
-+----------------------+----------------------+----------------------+
-| John Abbott College  |                      |                      |
-| Campus Biodiversity  |                      |                      |
-| Network              |                      |                      |
-|                      |                      |                      |
-| Observations will    |                      |                      |
-| appear on this page: |                      |                      |
-|                      |                      |                      |
-| \                    |                      |                      |
-| https://inaturalist  |                      |                      |
-| .ca/projects/john-ab |                      |                      |
-| bott-college-campus- |                      |                      |
-| biodiversity-network |                      |                      |
-+----------------------+----------------------+----------------------+
+<table>
+<tbody>
+<tr>
+<td>Text</td>
+<td>Comments</td>
+<td>5 Ws</td>
+</tr>
+<tr>
+<td>John Abbott College BioBlitz 2025</td>
+<td>Official Title of the Event</td>
+<td><strong>What</strong><br />
+(general statement)<br />
+<br />
+Also identifies elements of <strong>Who</strong> and
+<strong>When</strong></td>
+</tr>
+<tr>
+<td>A BioBlitz is a communal citizen-science effort to record as many
+species as possible, within a designated location and time period, using
+the iNaturalist app</td>
+<td></td>
+<td><p>What</p>
+<p>(detailed statement)</p></td>
+</tr>
+<tr>
+<td>Just make as many iNaturalist observations as possible at JAC</td>
+<td></td>
+<td><p>What</p>
+<p>(simplified statement to encourage engagement)</p></td>
+</tr>
+<tr>
+<td>The objective is to connect with nature and others, while providing
+useful data for scientific biodiversity conservation purposes. </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>No sign-up is needed. </td>
+<td>No sign up for the event<br />
+<br />
+(But you need an iNaturalist account for uploading photos with the
+app.)</td>
+<td></td>
+</tr>
+<tr>
+<td>April 25-28 2025</td>
+<td>Tentative dates (based on last year’s event)</td>
+<td>When</td>
+</tr>
+<tr>
+<td>John Abbott College campus &amp; surrounding areas</td>
+<td></td>
+<td>Where</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>iNaturalist</td>
+<td>Client Organization<br />
+(beneficiary)</td>
+<td></td>
+</tr>
+<tr>
+<td><p>Connect with Nature</p>
+<p>Explore and share your observations from the natural world.</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p><strong>Download the Naturalist App</strong><br />
+Works On All Your Devices</p>
+<p>Install our mobile app so you can always observe, even without cell
+reception or wifi.<br />
+<br />
+<a
+href="https://play.google.com/store/apps/details?id=org.inaturalist.android">https://play.google.com/store/apps/details?id=org.inaturalist.android</a><br />
+</p>
+<p><a
+href="https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8">https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8</a></p></td>
+<td>Methodology</td>
+<td>How</td>
+</tr>
+<tr>
+<td><p>How It Works</p>
+<p>1. Record your observations</p>
+<p>2. Share with fellow naturalists</p>
+<p>3. Discuss your findings</p></td>
+<td></td>
+<td>How<br />
+<br />
+(simplified statement to encourage engagement)</td>
+</tr>
+<tr>
+<td><p>Contribute to Science<br />
+</p>
+<p>Every observation can contribute to biodiversity science, from the
+rarest butterfly to the most common backyard weed. We share your
+findings with scientific data repositories like the <a
+href="http://gbif.org/">Global Biodiversity Information Facility</a>
+(http://gbif.org/) to help scientists find and use your data. All you
+have to do is observe. </p></td>
+<td></td>
+<td>Why</td>
+</tr>
+<tr>
+<td><p>John Abbott College Campus Biodiversity Network</p>
+<p>Observations will appear on this page:</p>
+<p><br />
+https://inaturalist.ca/projects/john-abbott-college-campus-biodiversity-network</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
 ## Assignment
 
 1. Create a standard html page
 2. Add style tag inside head
-3. Add multiple images using orientation media query and 1x + 2x resolutions. Image width is defined by column width in Figma. 
+3. Add multiple images using orientation media query and 1x | 2x resolutions. Image width is defined by column width in Figma. 
 4. Remember that 2x images must be saved from same size or bigger images. **Not scaled up from smaller sizes.** 
-5. Wrap elements (picture + picture, picture + text, etc) that will be side by side on larger screens inside a div. Use a "flex-container" class. 
+5. Wrap elements (picture | picture, picture | text, etc) that will be side by side on larger screens inside a div. Use a "flex-container" class. 
