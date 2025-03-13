@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - gwd-cpanel",
+			"uri": "ssh://gwd-cpanel/"
+		}
+	],
+	"settings": {}
+}
