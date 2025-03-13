@@ -239,11 +239,11 @@ Define color variables:
 2. Export resized/designed elements from Figma as 1x and 2x
 3. Add as:
 
-    header {
-        background-image: url(css/img/bg.jpg); /* 1x version */
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
+        header {
+            background-image: url(css/img/bg.jpg); /* 1x version */
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
 
     @media (min-resolution: 2x) {
 
