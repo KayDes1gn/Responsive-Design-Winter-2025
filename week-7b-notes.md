@@ -245,7 +245,7 @@ Define color variables:
             background-size: cover;
         }
 
-    @media (min-resolution: 2x) {
+        @media (min-resolution: 2x) {
 
         header {
             background-image: url(css/img/bg2x.jpg); /* 2x version */
