@@ -93,7 +93,7 @@ useful data for scientific biodiversity conservation purposes. </td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>No sign-up is needed. </td>
+<td>No sign-up is needed to participate in the BioBlitz. </td>
 <td>No sign up for the event<br />
 <br />
 (But you need an iNaturalist account for uploading photos with the
@@ -136,7 +136,9 @@ reception or wifi.<br />
 href="https://play.google.com/store/apps/details?id=org.inaturalist.android">https://play.google.com/store/apps/details?id=org.inaturalist.android</a><br />
 </p>
 <p><a
-href="https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8">https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8</a></p></td>
+href="https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8">https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8</a></p>
+
+<p>You must create an account at iNaturalist</p></td>
 <td>Methodology</td>
 <td>How</td>
 </tr>
