@@ -22,7 +22,7 @@
 
     .when p,
     .when picture {
-	    flex: 50%;
+	    flex-basis: 50%;
     }
 
 
