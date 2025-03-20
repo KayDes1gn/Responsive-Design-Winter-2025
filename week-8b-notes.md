@@ -10,14 +10,51 @@
 
 </blockquote>
 
-### Examples
+See: [https://www.w3schools.com/css/css3_mediaqueries_ex.asp](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
 
-- @media screen {}: Rules for computer screens
-- @media print {}: Rules for formatting the page when printed
-- @media screen and (orientation: portrait) {}: Rules for computer screens that are taller than they are wide
-- @media screen and (min-width: 64rem) {}: Rules for computer screens that are wider than 64rem
-- @media screen and (max-width: 640px) {}: Rules for computer screens that are narrower than 640px
-- @media screen and (max-width: 640px) and (orientation: portrait) {}: Rules for computer screens that are narrower than 640px and taller than they are wide
+### Examples of How to Use Media Queries
+
+#### Rules for computer screens
+
+    @media screen {
+        h1 {color: red;}
+    } 
+
+#### Rules for formatting the page when printed    
+    
+    @media print {
+        h1 {color: black;}
+    }
+
+#### Rules for computer screens that are taller than they are wide    
+    
+    @media screen and (orientation: portrait) {
+
+        /* use tall background image */
+
+    }
+
+#### Rules for computer screens that are narrower than 640px
+    
+    @media screen and (max-width: 640px) {
+
+        /* display navigation as hamburger menu */
+    }
+
+
+#### Rules for computer screens that are wider than 64rem
+    
+    @media screen and (min-width: 64rem) {
+
+        /* display horizontal navigation menu */
+    }
+
+#### Rules for computer screens that are narrower than 640px and taller than they are wide
+    
+    @media screen and (max-width: 640px) and (orientation: landscape) {
+
+        /* use small horizontal background image */
+    }
 
 ### Mobile First
 
