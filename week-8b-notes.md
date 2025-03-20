@@ -83,7 +83,7 @@ See: [https://www.w3schools.com/css/css3_mediaqueries_ex.asp](https://www.w3scho
 
     .when .flex-container {
         flex-direction: row-reverse;
-        /* places elements in reverse order: second element becomes first */
+        /* places elements in reverse order: last element becomes first */
     }
 
 #### Setting Column Width
