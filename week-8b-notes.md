@@ -21,7 +21,9 @@
 #### Setting Column Width
 
     .when p,
-    .when picture {
+    .when picture,
+    .why p,
+    .why picture {
 	    flex-basis: 50%;
     }
 
