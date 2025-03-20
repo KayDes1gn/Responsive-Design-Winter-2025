@@ -252,7 +252,7 @@ Define color variables:
             /* do not repeat css properties that don’t change */
         }
 
-    } /* always comment closing media query */
+        } /* always comment closing media query */
 
 
 ## Configuring SSH FS
